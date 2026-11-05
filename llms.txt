@@ -1,0 +1,21 @@
+# SodaTide (sodatide.onrender.com)
+
+> Independent information and ordering website for SodaTide, a synbiotic dietary supplement capsule (30 vegetarian capsules per bottle) labelled Metabolic & Digestive Support and offered to support gut balance and digestive comfort.
+
+## Key facts
+- Named ingredients: Chicory Root Inulin, Potato Resistant Starch, Akkermansia muciniphila, Clostridium butyricum, Bifidobacterium infantis; amounts are on the bottle panel
+- Directions: one capsule daily with water, ideally before the first meal
+- Packs (USD): 2 bottles $79 each ($158 plus shipping); 3 bottles $69 each ($207, free shipping); 6 bottles $49 each ($294, free shipping); four bonus guides with 3 and 6 per the seller
+- One-time purchase, no subscription; 60-day money-back guarantee, subject to the terms shown at checkout
+- Not a treatment for any digestive condition; live strains are not suitable for everyone, so people with weakened immunity or illness should ask a doctor first
+
+## Pages
+- [Home](https://sodatide.onrender.com/)
+- [About SodaTide](https://sodatide.onrender.com/about-sodatide.html)
+- [Benefits](https://sodatide.onrender.com/sodatide-benefits.html)
+- [How It Works](https://sodatide.onrender.com/how-sodatide-works.html)
+- [Ingredients](https://sodatide.onrender.com/sodatide-ingredients.html)
+- [Reviews](https://sodatide.onrender.com/sodatide-reviews.html)
+- [Pricing](https://sodatide.onrender.com/sodatide-pricing.html)
+- [FAQ](https://sodatide.onrender.com/sodatide-faq.html)
+- [Blog](https://sodatide.onrender.com/blog/index.html)
